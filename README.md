@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/DynaStudios/DPCFLib.png?label=ready&title=Ready)](https://waffle.io/DynaStudios/DPCFLib)
 # DPCF Library
 ## Dynamic Patchable Content File(s)
 
